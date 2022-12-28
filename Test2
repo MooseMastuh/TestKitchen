@@ -1,0 +1,2 @@
+var name = 'Jason';
+command.log(name);
